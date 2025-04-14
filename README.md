@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**HilalNakMakan/HilalNakMakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Website Perkenalan Diri
 
-Here are some ideas to get you started:
+Halo! Ini adalah website perkenalan diri saya, **Hilal Aqila Al Farabi**.  
+Website ini dibuat menggunakan **HTML** dan **Tailwind CSS**, lengkap dengan fitur **dark mode** dan animasi sederhana.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tentang Saya
+Saya adalah seorang **pelajar** yang senang belajar hal-hal baru dan bersemangat mengembangkan diri dalam berbagai bidang.
+
+## Link Website
+[Klik di sini untuk melihat websitenya](https://HilalNakMakan.github.io/perkenalan-diri/)
+
+## Teknologi yang Digunakan
+- HTML5
+- Tailwind CSS (via CDN)
+- JavaScript (untuk toggle dark mode)
+
+## Cara Menjalankan
+1. Download file `index.html`
+2. Buka menggunakan browser apa pun
+
+---
+
+Website ini bersifat open source. Silakan dikembangkan atau dimodifikasi sesuai kebutuhan!
